@@ -1,4 +1,4 @@
-# Shiva Samboo
+# Shiva Shamboo
 
 Premium React/Vite real-estate landing page.
 
